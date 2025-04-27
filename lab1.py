@@ -37,4 +37,3 @@ print("\nUpdated Inventory:")
 for product, quantity in inventory.items():
     print(f"{product}: {quantity}")
 
-
